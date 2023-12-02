@@ -1,0 +1,35 @@
+Questão 1:
+
+a- 9
+b- 4
+c- H
+d- A, C, J, L, N
+e- C, J, L
+f- B, F
+g- F, H
+h- J, E, L, N
+
+Questão 2:
+
+Pré ordem: D, B, A, C, F, E, G
+Pós ordem: A, C, B, E, G, F, D
+In ordem:  A, B, C, D, E, F, g
+
+Questão 3:
+
+Pré ordem: +3*54 / *+354
+Pós ordem: 354*+ / 35+4*
+In ordem:  3+5*4 / 3+5*4
+
+Questão 4:
+
+a- 8
+b- 14, 16
+c- 14, 56
+d- sim
+e- 59
+f- 55
+g- 15
+
+
+
